@@ -1,0 +1,14 @@
+C:\Users\jonas\OneDrive\Skrivebord\mit arbejde\teknik\opg4oblsever\opg4oblsever\bin\Debug\net8.0\opg4oblsever.exe
+C:\Users\jonas\OneDrive\Skrivebord\mit arbejde\teknik\opg4oblsever\opg4oblsever\bin\Debug\net8.0\opg4oblsever.deps.json
+C:\Users\jonas\OneDrive\Skrivebord\mit arbejde\teknik\opg4oblsever\opg4oblsever\bin\Debug\net8.0\opg4oblsever.runtimeconfig.json
+C:\Users\jonas\OneDrive\Skrivebord\mit arbejde\teknik\opg4oblsever\opg4oblsever\bin\Debug\net8.0\opg4oblsever.dll
+C:\Users\jonas\OneDrive\Skrivebord\mit arbejde\teknik\opg4oblsever\opg4oblsever\bin\Debug\net8.0\opg4oblsever.pdb
+C:\Users\jonas\OneDrive\Skrivebord\mit arbejde\teknik\opg4oblsever\opg4oblsever\obj\Debug\net8.0\opg4oblsever.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonas\OneDrive\Skrivebord\mit arbejde\teknik\opg4oblsever\opg4oblsever\obj\Debug\net8.0\opg4oblsever.AssemblyInfoInputs.cache
+C:\Users\jonas\OneDrive\Skrivebord\mit arbejde\teknik\opg4oblsever\opg4oblsever\obj\Debug\net8.0\opg4oblsever.AssemblyInfo.cs
+C:\Users\jonas\OneDrive\Skrivebord\mit arbejde\teknik\opg4oblsever\opg4oblsever\obj\Debug\net8.0\opg4oblsever.csproj.CoreCompileInputs.cache
+C:\Users\jonas\OneDrive\Skrivebord\mit arbejde\teknik\opg4oblsever\opg4oblsever\obj\Debug\net8.0\opg4oblsever.dll
+C:\Users\jonas\OneDrive\Skrivebord\mit arbejde\teknik\opg4oblsever\opg4oblsever\obj\Debug\net8.0\refint\opg4oblsever.dll
+C:\Users\jonas\OneDrive\Skrivebord\mit arbejde\teknik\opg4oblsever\opg4oblsever\obj\Debug\net8.0\opg4oblsever.pdb
+C:\Users\jonas\OneDrive\Skrivebord\mit arbejde\teknik\opg4oblsever\opg4oblsever\obj\Debug\net8.0\opg4oblsever.genruntimeconfig.cache
+C:\Users\jonas\OneDrive\Skrivebord\mit arbejde\teknik\opg4oblsever\opg4oblsever\obj\Debug\net8.0\ref\opg4oblsever.dll

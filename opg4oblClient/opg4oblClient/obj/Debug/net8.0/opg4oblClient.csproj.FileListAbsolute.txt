@@ -1,0 +1,14 @@
+C:\Users\jonas\OneDrive\Skrivebord\mit arbejde\teknik\opg4oblClient\opg4oblClient\bin\Debug\net8.0\opg4oblClient.exe
+C:\Users\jonas\OneDrive\Skrivebord\mit arbejde\teknik\opg4oblClient\opg4oblClient\bin\Debug\net8.0\opg4oblClient.deps.json
+C:\Users\jonas\OneDrive\Skrivebord\mit arbejde\teknik\opg4oblClient\opg4oblClient\bin\Debug\net8.0\opg4oblClient.runtimeconfig.json
+C:\Users\jonas\OneDrive\Skrivebord\mit arbejde\teknik\opg4oblClient\opg4oblClient\bin\Debug\net8.0\opg4oblClient.dll
+C:\Users\jonas\OneDrive\Skrivebord\mit arbejde\teknik\opg4oblClient\opg4oblClient\bin\Debug\net8.0\opg4oblClient.pdb
+C:\Users\jonas\OneDrive\Skrivebord\mit arbejde\teknik\opg4oblClient\opg4oblClient\obj\Debug\net8.0\opg4oblClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonas\OneDrive\Skrivebord\mit arbejde\teknik\opg4oblClient\opg4oblClient\obj\Debug\net8.0\opg4oblClient.AssemblyInfoInputs.cache
+C:\Users\jonas\OneDrive\Skrivebord\mit arbejde\teknik\opg4oblClient\opg4oblClient\obj\Debug\net8.0\opg4oblClient.AssemblyInfo.cs
+C:\Users\jonas\OneDrive\Skrivebord\mit arbejde\teknik\opg4oblClient\opg4oblClient\obj\Debug\net8.0\opg4oblClient.csproj.CoreCompileInputs.cache
+C:\Users\jonas\OneDrive\Skrivebord\mit arbejde\teknik\opg4oblClient\opg4oblClient\obj\Debug\net8.0\opg4oblClient.dll
+C:\Users\jonas\OneDrive\Skrivebord\mit arbejde\teknik\opg4oblClient\opg4oblClient\obj\Debug\net8.0\refint\opg4oblClient.dll
+C:\Users\jonas\OneDrive\Skrivebord\mit arbejde\teknik\opg4oblClient\opg4oblClient\obj\Debug\net8.0\opg4oblClient.pdb
+C:\Users\jonas\OneDrive\Skrivebord\mit arbejde\teknik\opg4oblClient\opg4oblClient\obj\Debug\net8.0\opg4oblClient.genruntimeconfig.cache
+C:\Users\jonas\OneDrive\Skrivebord\mit arbejde\teknik\opg4oblClient\opg4oblClient\obj\Debug\net8.0\ref\opg4oblClient.dll
